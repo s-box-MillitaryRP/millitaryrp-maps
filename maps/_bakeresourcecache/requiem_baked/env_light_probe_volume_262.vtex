@@ -6,7 +6,7 @@
 		"CDmeInputTexture"
 		{
 			"m_name" "string" "inputTexture0"
-			"m_fileName" "string" "maps/_bakeresourcecache/requiem_baked/env_light_probe_volume_262.exr"
+			"m_fileName" "string" "c:/program files (x86)/steam/steamapps/common/sbox/addons/millitaryrp-maps/maps/_bakeresourcecache/requiem_baked/env_light_probe_volume_262.exr"
 			"m_colorSpace" "string" "linear"
 			"m_fileExt" "string" ""
 			"m_nMinBitsPerChannel" "int" "-1"

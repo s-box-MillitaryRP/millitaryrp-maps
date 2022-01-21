@@ -6,7 +6,7 @@
 		"CDmeInputTexture"
 		{
 			"m_name" "string" "inputTexture0"
-			"m_fileName" "string" "maps/_bakeresourcecache/requiem_baked/env_light_probe_volume_240.exr"
+			"m_fileName" "string" "c:/program files (x86)/steam/steamapps/common/sbox/addons/millitaryrp-maps/maps/_bakeresourcecache/requiem_baked/env_light_probe_volume_240.exr"
 			"m_colorSpace" "string" "linear"
 			"m_fileExt" "string" ""
 			"m_nMinBitsPerChannel" "int" "-1"
@@ -21,8 +21,8 @@
 				}
 			]
 			"m_bPassThroughToCompiledVtex" "bool" "0"
-			"m_n3DSliceCount" "int" "318"
-			"m_n3DSliceWidth" "int" "76"
+			"m_n3DSliceCount" "int" "336"
+			"m_n3DSliceWidth" "int" "72"
 			"m_n3DSliceHeight" "int" "128"
 		}
 	]
