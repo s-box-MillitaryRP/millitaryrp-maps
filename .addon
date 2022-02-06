@@ -1,5 +1,4 @@
 {
-  "SharedAssets": "",
   "Title": "Military maps",
   "Type": "game",
   "Org": "",
@@ -7,6 +6,7 @@
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
+  "ResourcePaths": null,
   "HasCode": false,
   "CodePath": "code",
   "RootNamespace": "Sandbox"
